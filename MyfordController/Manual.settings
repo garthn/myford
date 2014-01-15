@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MyfordController" GeneratedClassName="Manual">
+  <Profiles />
+  <Settings>
+    <Setting Name="PartingThinSteel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">I 1.0 500
+O 1.5 500
+L 1.25 500
+I 1.5 500
+O 1 500
+R 1.25 500
+I 
+W 0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
